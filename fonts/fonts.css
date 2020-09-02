@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Black.woff2') format('woff2'), url('SFUIDisplay-Black.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Heavy.woff2') format('woff2'), url('SFUIDisplay-Heavy.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Bold.woff2') format('woff2'), url('SFUIDisplay-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Semibold.woff2') format('woff2'), url('SFUIDisplay-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Medium.woff2') format('woff2'), url('SFUIDisplay-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Regular.woff2') format('woff2'), url('SFUIDisplay-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SF UI Display Light.woff') format('woff'), url('SF UI Display Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Ultralight.woff2') format('woff2'), url('SFUIDisplay-Ultralight.woff2') format('woff2');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('SFUIDisplay-Thin.woff2') format('woff2'), url('SFUIDisplay-Thin.woff2') format('woff2');
+    font-weight: 100;
+    font-style: normal;
+}
+
+
